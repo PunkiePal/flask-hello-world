@@ -4,7 +4,7 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 # This matches the "/" route Gumroad is expecting
-@app.route('/', methods=['POST'])
+@app.route('/', methods=['GET','POST' 'HEAD'])
 def gumroad_webhook():
     try:
         # Securely collect the incoming transaction data from Gumroad
