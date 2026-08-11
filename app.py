@@ -10,7 +10,7 @@ class MockLib:
         return time.strftime("%Y-%m-%d %H:%M:%S")
 lib = MockLib()
 
-@app.route('/webhook', methods=['POST'])
+@app.route('/', methods=['POST'])
 def handle_gumroad_webhook():
     try:
         data = request.form
