@@ -1,0 +1,19 @@
+{
+  "cots_asset_id": "HW-TXT-ENG-001",
+  "vendor_legal_name": "Headwater AI Digital Products LLC",
+  "product_name": "Axiom CleanGen Text Engine",
+  "commercial_availability": "Global Standard",
+  "classification": "Commercial Off-The-Shelf (COTS) Software Utility",
+  "compliance_framework": "Enterprise Audit Ready",
+  "pre_filled_documentation": [
+    "Corporate Vendor Onboarding Packet",
+    "Enterprise EULA",
+    "Data Privacy Isolation Statement",
+    "IP Non-Infringement Clearance"
+  ],
+  "licensing": {
+    "individual_tier_price": "$29",
+    "commercial_team_license_price": "$149",
+    "distribution_gateway": "https://gumroad.com/l/olwccv"
+  }
+}
