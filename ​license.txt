@@ -1,0 +1,22 @@
+1. TERMS OF USE & MODIFICATION
+This software is delivered in a compiled binary/bytecode format (.pyc) to 
+preserve intellectual property integrity. Modification, reverse-engineering, 
+decompilation, or unauthorized alteration of the software files is strictly 
+prohibited. Any attempt to alter the software immediately voids all product 
+warranties and access to developer support.
+
+2. DISCLAIMER OF WARRANTY ("AS IS")
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING 
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE.
+
+3. LIMITATION OF LIABILITY
+The developer shall not be held liable for system errors, data leakage, 
+ingestion compliance failures, or operational downtime resulting from the 
+deployment or handling of this software within the user's infrastructure. 
+It is the sole responsibility of the customer to audit environment compatibility 
+prior to execution.
